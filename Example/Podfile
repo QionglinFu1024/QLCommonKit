@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '9.0'
+
+target 'QLCommonKit_Example' do
+  pod 'QLCommonKit', :path => '../'
+
+  target 'QLCommonKit_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

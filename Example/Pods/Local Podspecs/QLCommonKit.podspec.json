@@ -1,0 +1,22 @@
+{
+  "name": "QLCommonKit",
+  "version": "0.1.0",
+  "summary": "A short description of QLCommonKit.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/fuqionglin/QLCommonKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "fuqionglin": "fuqionglin@gmtech.ai"
+  },
+  "source": {
+    "git": "https://github.com/fuqionglin/QLCommonKit.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "QLCommonKit/Classes/**/*"
+}

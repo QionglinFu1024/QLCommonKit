@@ -1,0 +1,6 @@
+framework module Pods_QLCommonKit_Tests {
+  umbrella header "Pods-QLCommonKit_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

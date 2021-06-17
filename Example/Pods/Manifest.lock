@@ -1,0 +1,16 @@
+PODS:
+  - QLCommonKit (0.1.0)
+
+DEPENDENCIES:
+  - QLCommonKit (from `../`)
+
+EXTERNAL SOURCES:
+  QLCommonKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  QLCommonKit: ed737180ff4fff97c16dda53229bc0863e8700cc
+
+PODFILE CHECKSUM: 0e5c36910c7475101ff33a21b47a95af2503c04b
+
+COCOAPODS: 1.10.1

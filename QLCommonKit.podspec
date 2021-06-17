@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'QLCommonKit'
-  s.version          = '0.1.0'
+  s.version          = '0.2'
   s.summary          = '公共组件 QLCommonKit.'
 
 # This description is used to generate tags and improve search results.
@@ -21,11 +21,11 @@ Pod::Spec.new do |s|
 TODO: UILabel分类
                        DESC
 
-  s.homepage         = 'https://github.com/fuqionglin/QLCommonKit'
+  s.homepage         = 'https://github.com/QionglinFu1024/QLCommonKit'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'fuqionglin' => 'fuqionglin@gmtech.ai' }
-  s.source           = { :git => 'https://github.com/fuqionglin/QLCommonKit.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/QionglinFu1024/QLCommonKit', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '9.0'
